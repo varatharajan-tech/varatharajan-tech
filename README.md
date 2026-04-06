@@ -5,7 +5,7 @@
 Welcome to my personal portfolio website 👨‍💻  
 This portfolio showcases my work, projects, and journey as an AI Developer, Founder, and Builder.
 
-🔗 Live Portfolio: https://your-username.github.io/
+🔗 Live Portfolio: varatharajan-tech.vercel.app
 
 ---
 
@@ -14,7 +14,7 @@ This portfolio showcases my work, projects, and journey as an AI Developer, Foun
 Hi, I'm **Varatharajan K**  
 - 🎓 B.Tech in Artificial Intelligence & Data Science  
 - 🤖 AI Developer & Agentic AI Builder  
-- 🚀 Founder of Zerovia  
+- 🚀 Founder of Zerovia.tech
 - 💡 Passionate about building impactful tech solutions  
 
 ---
@@ -63,11 +63,11 @@ AgriTech solution for post-harvest loss reduction.
 
 ## 📸 Preview
 
-![Portfolio Preview](https://via.placeholder.com/800x400.png?text=Portfolio+Preview)
+![Portfolio Preview](varatharajan-tech.vercel.app)
 
 ---
 
 📬 Contact
 📧 Email: varatharajan599v@gmail.com
-💼 LinkedIn: (https://www.linkedin.com/in/varatharajan-k/)
+💼 LinkedIn: https://www.linkedin.com/in/varatharajan-k/
 🐙 GitHub: https://github.com/varatharajan-tech

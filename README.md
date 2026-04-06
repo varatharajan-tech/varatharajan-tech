@@ -5,8 +5,7 @@
 Welcome to my personal portfolio website 👨‍💻  
 This portfolio showcases my work, projects, and journey as an AI Developer, Founder, and Builder.
 
-🔗 Live Portfolio: varatharajan-tech.vercel.app
-
+🔗 Live Portfolio:https://varatharajan-tech.vercel.app/
 ---
 
 ## 📌 About Me
@@ -58,12 +57,6 @@ AI-proctored online exam platform.
 
 ### 🔹 Smart Onion Storage  
 AgriTech solution for post-harvest loss reduction.
-
----
-
-## 📸 Preview
-
-![Portfolio Preview](varatharajan-tech.vercel.app)
 
 ---
 

@@ -63,5 +63,7 @@ AgriTech solution for post-harvest loss reduction.
 
 📬 Contact
 📧 Email: varatharajan599v@gmail.com
+
 💼 LinkedIn: https://www.linkedin.com/in/varatharajan-k/
+
 🐙 GitHub: https://github.com/varatharajan-tech
